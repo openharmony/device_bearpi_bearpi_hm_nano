@@ -24,7 +24,7 @@
     },
   "component": {
     "name": "paho_mqtt",
-    "subsystem": "device",
+    "subsystem": "device_bearpi_hm_nano",
     "adapted_system_type": [ "mini" ],
     "deps": {
       "components": [],
