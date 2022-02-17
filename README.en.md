@@ -1,3 +1,5 @@
+Reason for abandonment of this repository: the repository is abandoned due to the separation and adjustment of board and SOC
+New repository:[device_board_bearpi](https://gitee.com/openharmony/device_board_bearpi)，[device_soc_hisilicon](https://gitee.com/openharmony/device_soc_hisilicon)
 # BearPi-HM Nano<a name="ZH-CN_TOPIC_0000001130176841"></a>
 
 -   [Get source code](#section11660541590)

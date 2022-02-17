@@ -1,3 +1,7 @@
+本仓废弃原因：因board和soc分离调整，仓库废弃
+
+新仓库地址：[device_board_bearpi](https://gitee.com/openharmony/device_board_bearpi)，[device_soc_hisilicon](https://gitee.com/openharmony/device_soc_hisilicon)
+
 # BearPi-HM Nano<a name="ZH-CN_TOPIC_0000001130176841"></a>
 
 -   [获取源码](#section11660541590)
